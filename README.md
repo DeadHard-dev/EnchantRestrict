@@ -118,12 +118,3 @@ Localized language sheets are ready-to-use in:
 *   `messages_ru.yml` (Russian)
 
 ---
-
-## ⚙️ Build Requirements
-
-*   Java Runtime Environment (JRE) version **8** up to **21**.
-*   Built and engineered with type-safe Spigot and Gradle.
-```bash
-./gradlew build
-```
-Compiled output resides inside `build/libs/`.
