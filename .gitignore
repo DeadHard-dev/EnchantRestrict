@@ -1,0 +1,10 @@
+# Block absolutely all files and folders by default
+*
+*/
+
+# Allow Git to see only these two files
+!LICENSE
+!README.md
+
+# Allow Git to see the .gitignore file itself
+!.gitignore
