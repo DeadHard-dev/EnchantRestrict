@@ -15,7 +15,6 @@ A highly performant, advanced Minecraft Spigot/Paper server plugin offering dyna
     *   `REMOVE_TRADE`: Securely purges the targeted trade option entirely from the villager's inventory.
     *   `HIGH_PRICE`: Astronomically inflates the emerald cost by a configurable price multiplier.
     *   `CLEAR_BOOK`: Sanitizes trading, turning the restricted enchanted book item into a standard blank book.
-*   **Admin Apply & Remover Scrolls System**: Forge customizable high-authority Admin Scrolls using a visual Scroll Generator interface. Custom level scales run from 1 to 255 (a level of 0 acts as a **Remover Scroll** to strip the specified enchantment when applied).
 *   **Asynchronous Audit Logs (Local SQLite / Central MySQL)**: Built-in asynchronous database integration hooks. Keeps clean persistent records of player infractions, blocked table rolls, and rejected villager trades without causing any tick-rate or main-thread locking.
 *   **Premium Audio Sound Matrix (`sound.yml`)**: Fully custom auditory mapping files. Alter, amplify, or mute sound effects (volume, pitch) for distinct plugin actions, interface clicks, and event triggers.
 *   **Dynamic Language Engine & HEX Formatting**: Change language files on-the-fly. Natively supports RGB hex color format (`&#RRGGBB` and Adventure tags) for striking chat overlays.
