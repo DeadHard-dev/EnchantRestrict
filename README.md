@@ -51,9 +51,6 @@ EnchantRestrictor provides a beautifully tactile UI. Running `/enchantrestrict g
     *   Displays all registered vanilla enchantments as magical enchanted books.
     *   **Left-Click** a book to toggle its Enchantment Table Ban.
     *   **Right-Click** a book to toggle its Villager Trade Ban.
-3.  **Visual Admin Scroll Generator**:
-    *   Define exact custom enchantment types and customize levels (0-255) using specialized adjustment controls.
-    *   Generate real custom items inside your inventory instantly.
 
 ---
 
